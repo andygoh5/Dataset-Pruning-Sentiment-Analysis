@@ -1,7 +1,8 @@
 # Dataset-Pruning-Sentiment-Analysis
 Code for Dataset Pruning for Sentiment Analysis Fine-Tuning, which explores the pruning metrics of sentence length, number of clusters, and mean distance in GloVE space for pruning fine-tuning datasets for sentiment analysis tasks.
 
-`CS 263 Final Project.ipynb`: Python Notebook of Pruning and Experiment Code
+`Model-Agnostic Dataset Pruning for Sentiment Analysis Fine-Tuning.pdf`: ACL-style report of project
+`pruning.ipynb`: Python Notebook of Pruning and Experiment Code
 
 To run the code:
 1. Download and unzip `glove.6B.zip` from https://nlp.stanford.edu/projects/glove/
